@@ -1,0 +1,772 @@
+1659489480152	geckodriver	INFO	Listening on 127.0.0.1:61149
+1659489482457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileGRaYp2"
+1659492348797	geckodriver	INFO	Listening on 127.0.0.1:53426
+1659492351815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileq0goMO"
+1659492352361	Marionette	INFO	Marionette enabled
+1659492352367	Marionette	INFO	Listening on port 53434
+1659492352929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileq0goMO\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659493206684	Marionette	INFO	Stopped listening on port 53434
+[Parent 13832, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1659493753578	geckodriver	INFO	Listening on 127.0.0.1:53563
+1659493756669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileOTMXn1"
+1659493757275	Marionette	INFO	Marionette enabled
+1659493757281	Marionette	INFO	Listening on port 53571
+1659493757830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileOTMXn1\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1659494542950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileAodl3j"
+1659494543591	Marionette	INFO	Marionette enabled
+1659494543597	Marionette	INFO	Listening on port 53716
+1659494544409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileAodl3j\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659494550668	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659494551748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659494553075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: ({})
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Can not send request 'hide' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 30))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659495322321	Marionette	INFO	Stopped listening on port 53716
+1659495539108	geckodriver	INFO	Listening on 127.0.0.1:53895
+1659495542153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilej8HXn5"
+1659495543574	Marionette	INFO	Marionette enabled
+1659495543590	Marionette	INFO	Listening on port 53903
+1659495544465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilej8HXn5\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659495703343	Marionette	INFO	Stopped listening on port 53903
+1659496480073	geckodriver	INFO	Listening on 127.0.0.1:54540
+1659496483153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofiles1KDEv"
+1659496484012	Marionette	INFO	Marionette enabled
+1659496484028	Marionette	INFO	Listening on port 54548
+1659496485373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofiles1KDEv\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659496582293	Marionette	INFO	Stopped listening on port 54548
+1659497097077	geckodriver	INFO	Listening on 127.0.0.1:55066
+1659497100123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilex5LnB9"
+1659497100980	Marionette	INFO	Marionette enabled
+1659497100992	Marionette	INFO	Listening on port 55077
+1659497101849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilex5LnB9\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659497126538	Marionette	INFO	Stopped listening on port 55077
+1659497348158	geckodriver	INFO	Listening on 127.0.0.1:55333
+1659497351183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilex16lYe"
+1659497351993	Marionette	INFO	Marionette enabled
+1659497352004	Marionette	INFO	Listening on port 55342
+1659497352955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilex16lYe\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659497649829	Marionette	INFO	Stopped listening on port 55342
+1659497872185	geckodriver	INFO	Listening on 127.0.0.1:55534
+1659497875261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofile8lEczE"
+1659497876093	Marionette	INFO	Marionette enabled
+1659497876103	Marionette	INFO	Listening on port 55542
+1659497876616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofile8lEczE\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659498149337	Marionette	INFO	Stopped listening on port 55542
+[Parent 29932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+[Parent 29932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659498423961	geckodriver	INFO	Listening on 127.0.0.1:55698
+1659498427030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilePk8Ycv"
+1659498427882	Marionette	INFO	Marionette enabled
+1659498427892	Marionette	INFO	Listening on port 55706
+1659498428393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilePk8Ycv\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659498654994	Marionette	INFO	Stopped listening on port 55706
+1659499086011	geckodriver	INFO	Listening on 127.0.0.1:55884
+1659499089099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileyGK69B"
+1659499089923	Marionette	INFO	Marionette enabled
+1659499089932	Marionette	INFO	Listening on port 55892
+1659499090435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileyGK69B\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659499328020	Marionette	INFO	Stopped listening on port 55892
+1659517164092	geckodriver	INFO	Listening on 127.0.0.1:57704
+1659517167107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fccd6a\\rust_mozprofileAsYHNy"
+1659517167716	Marionette	INFO	Marionette enabled
+1659517167724	Marionette	INFO	Listening on port 57715
+1659517168594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fccd6a\\rust_mozprofileAsYHNy\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659517175047	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517176114	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517177413	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517185111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517186162	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517187459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517194310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517195625	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517203296	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517204383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517212499	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517213637	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517214926	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517231258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517233517	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517234603	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517235935	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517251965	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517254015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517255321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517262875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517263843	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517265112	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517281125	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517283093	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517284368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517292138	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517293406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517301188	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517302171	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517303446	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517310618	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517311614	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517312868	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517320234	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517321306	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517322647	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517338883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517340771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517342022	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517349478	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517350508	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517351598	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517359562	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517360869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517368403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517369481	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517370796	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517378418	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517379500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517380786	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517388618	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517389619	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517390910	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659517398047	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517399324	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659517406517	Marionette	INFO	Stopped listening on port 57715
+1659519383901	geckodriver	INFO	Listening on 127.0.0.1:58919
+1659519386956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileWQCFPh"
+1659519387583	Marionette	INFO	Marionette enabled
+1659519387588	Marionette	INFO	Listening on port 58927
+1659519388089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileWQCFPh\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659519476662	Marionette	INFO	Stopped listening on port 58927
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1659520423781	geckodriver	INFO	Listening on 127.0.0.1:59186
+1659520426841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilejqEvS7"
+1659520427469	Marionette	INFO	Marionette enabled
+1659520427475	Marionette	INFO	Listening on port 59194
+1659520428321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilejqEvS7\\search.json.mozlz4", (void 0)))
+1659522613970	geckodriver	INFO	Listening on 127.0.0.1:59722
+1659522617041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilecFuwCZ"
+1659522617659	Marionette	INFO	Marionette enabled
+1659522617665	Marionette	INFO	Listening on port 59730
+1659522618203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilecFuwCZ\\search.json.mozlz4", (void 0)))
+1659523096007	Marionette	INFO	Stopped listening on port 59730
+9522956303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileSSChYB"
+1659522956780	Marionette	INFO	Marionette enabled
+1659522956787	Marionette	INFO	Listening on port 59844
+1659522956904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileSSChYB\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659523092885	Marionette	INFO	Stopped listening on port 59844
+1659523432691	geckodriver	INFO	Listening on 127.0.0.1:60036
+1659523435790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileSSafnL"
+1659523436352	Marionette	INFO	Marionette enabled
+1659523436358	Marionette	INFO	Listening on port 60044
+1659523436940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5319: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileSSafnL\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4114: Error: Area not yet restored
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659523444003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659523445086	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659523446112	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659523453804	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659523454806	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659523456127	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659523472113	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4114: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4856: TypeError: aWindow.gNavToolbox.palette is undefined
+1659523714107	Marionette	INFO	Stopped listening on port 60044
+@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659523681060	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659523682375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659523689791	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659523690917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659523692288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659523713375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659523717569	Marionette	INFO	Stopped listening on port 60124
+1659523962786	geckodriver	INFO	Listening on 127.0.0.1:60229
+1659523965897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileshuiaT"
+1659523966502	Marionette	INFO	Marionette enabled
+1659523966509	Marionette	INFO	Listening on port 60237
+1659523967023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileshuiaT\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659524116612	Marionette	INFO	Stopped listening on port 60237
+1659524319203	geckodriver	INFO	Listening on 127.0.0.1:60389
+1659524322288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilekDn9Jz"
+1659524322875	Marionette	INFO	Marionette enabled
+1659524322881	Marionette	INFO	Listening on port 60399
+1659524323401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofilekDn9Jz\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659524364078	Marionette	INFO	Stopped listening on port 60399
+1659524625981	geckodriver	INFO	Listening on 127.0.0.1:60514
+1659524629094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofile6YgLJ6"
+1659524629752	Marionette	INFO	Marionette enabled
+1659524629758	Marionette	INFO	Listening on port 60523
+1659524630244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofile6YgLJ6\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659524644118	Marionette	INFO	Stopped listening on port 60523
+1659525015275	geckodriver	INFO	Listening on 127.0.0.1:60788
+1659525018373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileL1lQpC"
+1659525018932	Marionette	INFO	Marionette enabled
+1659525018938	Marionette	INFO	Listening on port 60796
+1659525019508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileL1lQpC\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659525050545	Marionette	INFO	Stopped listening on port 60796
+1659525350410	geckodriver	INFO	Listening on 127.0.0.1:60930
+1659525353503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\mozilla firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileAcKBqd"
+1659525354060	Marionette	INFO	Marionette enabled
+1659525354067	Marionette	INFO	Listening on port 60938
+1659525354656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jcche\\AppData\\Local\\robocorp\\temp\\4d65822107fca72a\\rust_mozprofileAcKBqd\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://robotsparebinindustries.com"
+1659525480824	Marionette	INFO	Stopped listening on port 60938
